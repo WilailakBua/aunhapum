@@ -1,0 +1,5 @@
+# Created at 2567-07-27T17:25:30.668
+Boot Manifest-JAR contains absolute paths in classpath 'D:\aunhapum\backend\aunhapum\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
